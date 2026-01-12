@@ -1,0 +1,11 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.vscode
+**/*.swp
+env
+
+Gemfile
+Gemfile.lock
+docker-compose.yml
