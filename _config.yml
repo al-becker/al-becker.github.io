@@ -1,3 +1,11 @@
-theme: jekyll-theme-minimal
 title: Alex's homepage
 description: Random thoughts in my life!
+author: Alex Becker
+
+theme: minima
+
+minima:
+  date_format: "%d-$m-%Y"
+  
+include:
+    - _pages
